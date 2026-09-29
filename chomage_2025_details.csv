@@ -1,0 +1,11 @@
+indicateur,valeur_2024,valeur_2025,unite,source_id
+taux_chomage_femmes,19.4,20.5,%,S6
+taux_chomage_hommes,11.6,10.8,%,S6
+taux_chomage_15_24_ans,36.7,37.2,%,S6
+taux_chomage_25_34_ans,21.0,20.9,%,S6
+taux_chomage_diplomes,19.6,19.1,%,S6
+taux_chomage_sans_diplome,5.2,4.7,%,S6
+part_chomeurs_jamais_travaille,49.3,52.9,%,S6
+part_chomage_longue_duree_1an_plus,62.4,64.8,%,S6
+duree_moyenne_chomage,31,33,mois,S6
+taux_sous_emploi,10.1,10.9,%,S6
